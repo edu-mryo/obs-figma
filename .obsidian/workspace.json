@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c87cbea4867c73",
+        "id": "745d764c82e6151e",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "5b0c13ae1d2d2a20",
+            "id": "4c9765ff6b185a61",
             "type": "tabs",
             "children": [
               {
-                "id": "1011e287911fa473",
+                "id": "4229c284a7dd11b4",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -67,6 +67,44 @@
                   "pinned": true,
                   "icon": "terminal",
                   "title": "Terminal:  Gemini - obs-figma"
+                }
+              },
+              {
+                "id": "581664f1161f6cd7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/markryo/Documents/obs-figma",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
                 }
               }
             ]
@@ -203,13 +241,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline"
             }
           },
           {
@@ -241,9 +278,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ed849203451f373c",
+  "active": "ae4ced9eaa1de722",
   "lastOpenFiles": [
     "readme.md",
+    "2025-08-10.md",
     "test.md",
     "test.md.md",
     "Untitled"
