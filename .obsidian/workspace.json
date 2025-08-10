@@ -11,14 +11,15 @@
             "id": "59e5d8d4637b839a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "aFile": "test.md",
+                "bFile": "test.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "diff",
+              "title": "Diff: test"
             }
           }
         ]
@@ -179,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01d46850e9a766b5",
+  "active": "59e5d8d4637b839a",
   "lastOpenFiles": [
-    "test.md.md",
     "test.md",
+    "test.md.md",
     "Untitled"
   ]
 }
