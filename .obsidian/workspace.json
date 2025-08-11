@@ -29,14 +29,12 @@
                 "id": "d65af6a9622e4783",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "Getting Started/Getting Started.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Getting Started/Pasted image 20250811092955.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "Getting Started"
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250811092955"
                 }
               }
             ],
@@ -256,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Getting Started.md",
+                "file": "Getting Started/Pasted image 20250811092955.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Getting Started"
+              "title": "Outline of Pasted image 20250811092955"
             }
           },
           {
@@ -297,9 +295,9 @@
   },
   "active": "d65af6a9622e4783",
   "lastOpenFiles": [
+    "Getting Started/Getting Started.md",
     "Getting Started/Pasted image 20250811092955.png",
     "Getting Started/Pasted image 20250811092419.png",
-    "Getting Started/Getting Started.md",
     "Pasted image 20250811092632.png",
     "Pasted image 20250811092552.png",
     "readme.md",
