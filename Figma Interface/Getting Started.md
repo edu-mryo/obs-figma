@@ -6,3 +6,5 @@
 - Draft: where you can create rough sketches and idea that you are not ready to share broadly or publicly
 - star button on each file : to save the project your favourite. It should show up in the sidebar
 - Teams: a collaboration page
+
+![](Pasted%20image%2020250811100442.png)
