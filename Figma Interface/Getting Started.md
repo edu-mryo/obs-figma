@@ -10,4 +10,4 @@
 ![](Pasted%20image%2020250811100442.png)
 
 - Design file : where you start designing 
-![](Pasted%20image%2020250811100608.png)
+![](../Basic%20Design/Pasted%20image%2020250811100608.png)

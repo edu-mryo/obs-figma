@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Figma Interface/Getting Started.md",
+                    "file": "Basic Design/Basic Design and creation.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Getting Started"
+                  "title": "Basic Design and creation"
                 }
               }
             ],
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figma Interface/Getting Started.md",
+                "file": "Basic Design/Basic Design and creation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Getting Started"
+              "title": "Outline of Basic Design and creation"
             }
           },
           {
@@ -297,10 +297,12 @@
   },
   "active": "d65af6a9622e4783",
   "lastOpenFiles": [
-    "Figma Interface/Pasted image 20250811100608.png",
+    "Basic Design/Pasted image 20250811101347.png",
+    "Basic Design/Pasted image 20250811100608.png",
+    "Basic Design/Basic Design and creation.md",
+    "Figma Interface/Getting Started.md",
     "Figma Interface/Pasted image 20250811100442.png",
     "Figma Interface/Pasted image 20250811092955.png",
-    "Figma Interface/Getting Started.md",
     "Getting Started/Pasted image 20250811092419.png",
     "Pasted image 20250811092632.png",
     "Pasted image 20250811092552.png",
