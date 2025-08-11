@@ -15,14 +15,12 @@
                 "id": "ed849203451f373c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "readme.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Getting Started/Pasted image 20250811092419.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "readme"
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250811092419"
                 }
               }
             ]
@@ -241,12 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Getting Started/Pasted image 20250811092419.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20250811092419"
             }
           },
           {
@@ -275,17 +274,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "4229c284a7dd11b4",
+  "active": "ed849203451f373c",
   "lastOpenFiles": [
+    "Getting Started/Getting Started.md",
+    "Getting Started/Pasted image 20250811092419.png",
+    "readme.md",
     "Collaboration & Export",
     "Advanced Design & Components",
     "Basic Design",
     "Figma Interface",
     "Getting Started",
-    "readme.md",
     "2025-08-10.md",
     "test.md",
     "test.md.md",
