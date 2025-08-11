@@ -8,3 +8,6 @@
 - Teams: a collaboration page
 
 ![](Pasted%20image%2020250811100442.png)
+
+- Design file : where you start designing 
+![](Pasted%20image%2020250811100608.png)
