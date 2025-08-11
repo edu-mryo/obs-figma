@@ -16,14 +16,10 @@
                 "id": "d65af6a9622e4783",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Design/Basic Design and creation.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Basic Design and creation"
+                  "title": "New tab"
                 }
               }
             ]
@@ -243,13 +239,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Design/Basic Design and creation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Design and creation"
+              "title": "Outline"
             }
           },
           {
@@ -282,10 +277,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d65af6a9622e4783",
+  "active": "01d46850e9a766b5",
   "lastOpenFiles": [
-    "Figma Interface/Getting Started with Figma.md",
     "Basic Design/Basic Design and creation.md",
+    "Figma Interface/Getting Started with Figma.md",
     "Basic Design/Pasted image 20250811100608.png",
     "Figma Interface/Getting Started.md",
     "Getting Started",
