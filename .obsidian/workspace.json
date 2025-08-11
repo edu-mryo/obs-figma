@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Getting Started/Getting Started.md",
+                    "file": "Figma Interface/Getting Started.md",
                     "mode": "source",
                     "source": false
                   },
@@ -29,12 +29,14 @@
                 "id": "d65af6a9622e4783",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "Getting Started/Pasted image 20250811092955.png"
+                    "file": "Figma Interface/Getting Started.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250811092955"
+                  "icon": "lucide-file",
+                  "title": "Getting Started"
                 }
               }
             ],
@@ -254,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Pasted image 20250811092955.png",
+                "file": "Figma Interface/Getting Started.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250811092955"
+              "title": "Outline of Getting Started"
             }
           },
           {
@@ -293,10 +295,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d65af6a9622e4783",
+  "active": "01d46850e9a766b5",
   "lastOpenFiles": [
-    "Getting Started/Getting Started.md",
-    "Getting Started/Pasted image 20250811092955.png",
+    "Figma Interface/Pasted image 20250811092955.png",
+    "Figma Interface/Getting Started.md",
     "Getting Started/Pasted image 20250811092419.png",
     "Pasted image 20250811092632.png",
     "Pasted image 20250811092552.png",
@@ -305,7 +307,7 @@
     "Advanced Design & Components",
     "Basic Design",
     "Figma Interface",
-    "Getting Started",
+    "Figma Interface/Getting Started",
     "2025-08-10.md",
     "test.md",
     "test.md.md",
